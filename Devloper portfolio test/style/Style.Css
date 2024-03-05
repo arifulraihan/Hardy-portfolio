@@ -1,5 +1,7 @@
 body{
     font-family: "Open Sans", sans-serif;
+    margin: 0px;
+    padding: 0px;
 }
 
 .Primary-color{
@@ -50,4 +52,65 @@ nav li{
 }
 .profile-pic{
     width: 800px;
+}
+.about{
+    max-width: 800px;
+    max-height: 540px;
+    background: #FFF8F3;
+    padding: 30px;
+    margin-top: 100px;
+    text-align: center;
+    margin-left: 180px;
+}
+main{
+    /* background:#FFF8F3 ; */
+    text-align: center;
+}
+.about-pra{
+    font: size 18px; ;
+    font-family: 300;
+    padding: 0px 50px 50px 50px;
+    
+}
+.hardi-info{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.hardy-info-pra{
+    font-size: 12px;
+    font-weight: 200;
+}
+.Hardy-info-h{
+    font-size: 12px;
+    font-weight: 700;
+}
+.what{
+    margin: 100px 300px 300px 300px;
+}
+.what-title{
+    font-size: 35px;
+    font-weight: bold;
+}
+.what-pra{
+    font-size: 18;
+}
+/* skill part  */
+.skill-part{
+    display: flex;
+   justify-content: space-around;
+   gap: 20px;
+}
+.skill-js{
+    text-align: center;
+
+}
+.skill-headline{
+    font-size: 15px;
+    font-weight: bold;
+}
+.skill-paragraph{
+    font size: 16px;
+    font-weight: 300;
+    text-align: left;
 }
