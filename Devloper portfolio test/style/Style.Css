@@ -114,3 +114,38 @@ main{
     font-weight: 300;
     text-align: left;
 }
+.resume{
+    font: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.resume-descripton{
+    display: flex;
+}
+.education{
+    text-align: left;
+    font: 20px;
+    font-weight: bold;
+    padding-left: 200px;
+}
+.engineering{0px
+    font: 15px;
+    font-weight: bold;
+    width: auto;
+    text-align:left;
+    /* width: 200px 200px 200px 200px; */
+    padding-left: 200px;
+    width: 600px;
+    
+}
+#footer-bg{
+    background:#FFF8F3 ;
+    padding: 50px;
+}
+.footer-right-part{
+    display: flex;
+}
+.footer-box{
+     
+}
+
