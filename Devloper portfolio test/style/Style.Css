@@ -144,8 +144,39 @@ main{
 }
 .footer-right-part{
     display: flex;
+    margin-left: 50px;
+
 }
-.footer-box{
+.footer-box,textarea{
+    display:flex;
+    display: block;
+    width: 200px;
+    width: 100%;
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+    
      
 }
+.footer-left{
+    width: 50%;
+}
+.footer-right{
+    width: 50%;
+}
+.input1{
+    margin-bottom: 25px;
+    width: 100%;
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+}
+.input2{
+    margin-bottom: 25px;
+    width: 100%;
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+}
+
 
